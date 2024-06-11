@@ -2,6 +2,10 @@
 
 This is a console-based car park application developed in C#. It uses a dictionary to simulate reserving and vacating parking spots.
 
+## Main Program File
+
+The main program file is `Program.cs`.
+
 ## Features
 
 - Initialize a car park with a specified capacity.
